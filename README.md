@@ -1,4 +1,4 @@
-#GPU XID Error Analysis on NVIDIA A100 Clusters
+## GPU XID Error Analysis on NVIDIA A100 Clusters
 ## Overview
 
 Statistical analysis of real-world XID error logs collected from NVIDIA A100 GPU clusters (the Delta supercomputer). The project applies probability theory and statistical inference to characterize GPU failure behavior, detect anomalies, and predict GPU failures from error telemetry.
